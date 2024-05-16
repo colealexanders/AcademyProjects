@@ -1,0 +1,14 @@
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/bin/Debug/net8.0/AcademyMathConsoleApplication
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/bin/Debug/net8.0/AcademyMathConsoleApplication.deps.json
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/bin/Debug/net8.0/AcademyMathConsoleApplication.runtimeconfig.json
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/bin/Debug/net8.0/AcademyMathConsoleApplication.dll
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/bin/Debug/net8.0/AcademyMathConsoleApplication.pdb
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/AcademyMathConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/AcademyMathConsoleApplication.AssemblyInfoInputs.cache
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/AcademyMathConsoleApplication.AssemblyInfo.cs
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/AcademyMathConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/AcademyMathConsoleApplication.dll
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/refint/AcademyMathConsoleApplication.dll
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/AcademyMathConsoleApplication.pdb
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/AcademyMathConsoleApplication.genruntimeconfig.cache
+/Users/coleroberts/Desktop/dev/C#/AcademyProjects/AcademyMathConsoleApplication/obj/Debug/net8.0/ref/AcademyMathConsoleApplication.dll
